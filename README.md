@@ -2,6 +2,8 @@
 
 --------------------------------------
 
+
+
 🎯 Visão Geral
 O VidaPet é um website institucional completo e profissional desenvolvido para clínicas veterinárias de alto padrão. O projeto foi construído com foco em:
 Design Premium: Estética moderna e sofisticada, inspirada em clínicas médicas de elite
@@ -11,8 +13,13 @@ Responsividade: Funciona perfeitamente em todos os dispositivos
 SEO Ready: Estrutura otimizada para mecanismos de busca
 
 
+
+
 ✨ Funcionalidades
+
 🖥️ Interface do Usuário
+
+
 
 Funcionalidade: 
 
@@ -22,6 +29,8 @@ Menu Mobile - Hamburger menu com animação suave
 Dark Mode - Alternância entre temas claro e escuro com persistência
 Scroll Suave - Navegação fluida entre seções
 Botão Voltar ao Topo - Aparece automaticamente ao rolar para baixo
+
+
 
 
 📄 Seções do Site
@@ -46,11 +55,16 @@ Footer - Contato, redes sociais e horários
 ✅ Menu mobile responsivo
 ✅ Feedback visual de erros/sucesso
 
+
+
 🛠️ Tecnologias Utilizadas
 
 HTML5 - Semântico
 CSS3 - Moderno
 JavaScript - ES6+
+
+
+
 
 Recursos CSS:
 
@@ -60,12 +74,21 @@ CSS Variables - Temas e consistência visual
 Animations - Transições e keyframes
 Media Queries - Responsividade mobile-first
 
+
+
+
 Recursos JavaScript:
 
 Intersection Observer API - Detecção de scroll
 Local Storage - Persistência de preferências
 Form Validation - Validação nativa aprimorada
 Event Listeners - Gerenciamento de interações
+
+
+
+
+
+
 
 vidaPet/
 │
@@ -87,6 +110,10 @@ vidaPet/
 │       └── logo.svg        # Logotipo em SVG
 │
 └── README.md               # Este arquivo
+
+
+
+
 
 
 
