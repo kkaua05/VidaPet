@@ -86,26 +86,22 @@ O site foi construído com foco em:
 
 # 📁 Estrutura do Projeto
 
+
 vidaPet/
 │
-├── index.html # Página principal (HTML semântico)
-│
+├── index.html
 ├── css/
-│ └── style.css # Folha de estilos principal
-│
+│   └── style.css
 ├── js/
-│ └── script.js # Lógica JavaScript modularizada
-│
-├── assets/
-│ ├── imagens/
-│ │ ├── hero-bg.png
-│ │ ├── about-clinic.png
-│ │ └── gallery-*.png
-│ │
-│ └── icones/
-│ └── logo.svg
-│
-└── README.md
+│   └── script.js
+├── ativos/
+│   ├── imagens/
+│   │   ├── herói-bg.png
+│   │   ├── about-clinic.png
+│   │   └── galeria-*.png
+│   └── ícones/
+│       └── logotipo.svg
+└── LEIA-ME.md
 
 
 ---
